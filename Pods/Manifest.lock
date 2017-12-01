@@ -1,0 +1,113 @@
+PODS:
+  - Alamofire (4.5.1)
+  - CryptoSwift (0.7.2)
+  - Firebase/Auth (4.3.0):
+    - Firebase/Core
+    - FirebaseAuth (= 4.2.1)
+  - Firebase/Core (4.3.0):
+    - FirebaseAnalytics (= 4.0.4)
+    - FirebaseCore (= 4.0.8)
+  - Firebase/Database (4.3.0):
+    - Firebase/Core
+    - FirebaseDatabase (= 4.1.0)
+  - Firebase/Messaging (4.3.0):
+    - Firebase/Core
+    - FirebaseMessaging (= 2.0.4)
+  - Firebase/Storage (4.3.0):
+    - Firebase/Core
+    - FirebaseStorage (= 2.0.2)
+  - FirebaseAnalytics (4.0.4):
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+    - nanopb (~> 0.3)
+  - FirebaseAuth (4.2.1):
+    - FirebaseAnalytics (~> 4.0)
+    - GoogleToolboxForMac/NSDictionary+URLArguments (~> 2.1)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - FirebaseCore (4.0.8):
+    - GoogleToolboxForMac/NSData+zlib (~> 2.1)
+    - nanopb (~> 0.3)
+  - FirebaseDatabase (4.1.0):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - leveldb-library (~> 1.18)
+  - FirebaseInstanceID (2.0.4)
+  - FirebaseMessaging (2.0.4):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - FirebaseInstanceID (~> 2.0)
+    - GoogleToolboxForMac/Logger (~> 2.1)
+    - Protobuf (~> 3.1)
+  - FirebaseStorage (2.0.2):
+    - FirebaseAnalytics (~> 4.0)
+    - FirebaseCore (~> 4.0)
+    - GTMSessionFetcher/Core (~> 1.1)
+  - GoogleToolboxForMac/DebugUtils (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/Defines (2.1.3)
+  - GoogleToolboxForMac/Logger (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/NSData+zlib (2.1.3):
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+  - GoogleToolboxForMac/NSDictionary+URLArguments (2.1.3):
+    - GoogleToolboxForMac/DebugUtils (= 2.1.3)
+    - GoogleToolboxForMac/Defines (= 2.1.3)
+    - GoogleToolboxForMac/NSString+URLArguments (= 2.1.3)
+  - GoogleToolboxForMac/NSString+URLArguments (2.1.3)
+  - GTMSessionFetcher/Core (1.1.12)
+  - ILPDFKit (1.1.9)
+  - JSQMessagesViewController (7.3.5):
+    - JSQSystemSoundPlayer (~> 2.0.1)
+  - JSQSystemSoundPlayer (2.0.1)
+  - leveldb-library (1.18.3)
+  - MBProgressHUD (1.0.0)
+  - nanopb (0.3.8):
+    - nanopb/decode (= 0.3.8)
+    - nanopb/encode (= 0.3.8)
+  - nanopb/decode (0.3.8)
+  - nanopb/encode (0.3.8)
+  - Protobuf (3.4.0)
+  - SwiftyJSON (3.1.4)
+  - Walkthrough (0.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - CryptoSwift
+  - Firebase/Auth
+  - Firebase/Core
+  - Firebase/Database
+  - Firebase/Messaging
+  - Firebase/Storage
+  - ILPDFKit
+  - JSQMessagesViewController
+  - MBProgressHUD
+  - SwiftyJSON
+  - Walkthrough
+
+SPEC CHECKSUMS:
+  Alamofire: 2d95912bf4c34f164fdfc335872e8c312acaea4a
+  CryptoSwift: cd2158be2bf639aabc63ec804707c7137c90157c
+  Firebase: 83283761a1ef6dc9846e03d08059f51421afbd65
+  FirebaseAnalytics: 722b53c7b32bfc7806b06e0093a2f5180d4f2c5a
+  FirebaseAuth: d7f047fbeab98062b98ea933b8d934e0fb1190e2
+  FirebaseCore: 69b1a5ac5f857ba6d5fd9d5fe794f4786dd5e579
+  FirebaseDatabase: 607284a103e961d7f5863ee603cab5e85f443bd6
+  FirebaseInstanceID: 70c2b877e9338971b2429ea5a4293df6961aa44e
+  FirebaseMessaging: 3dd86bfda2acb680b05c97f3f8ac566e9bb87b2a
+  FirebaseStorage: 0cca42d9b889a0227c3a50121f45a4469fc9eb27
+  GoogleToolboxForMac: 2501e2ad72a52eb3dfe7bd9aee7dad11b858bd20
+  GTMSessionFetcher: ebaa1f79a5366922c1735f1566901f50beba23b7
+  ILPDFKit: ba2ba8900c8f5fda3126c3b66c9c296c19f82dbe
+  JSQMessagesViewController: 6587f56aedbcb150a8ba1d968e1ef58b1bc758b7
+  JSQSystemSoundPlayer: c5850e77a4363ffd374cd851154b9af93264ed8d
+  leveldb-library: 10fb39c39e243db4af1828441162405bbcec1404
+  MBProgressHUD: 4890f671c94e8a0f3cf959aa731e9de2f036d71a
+  nanopb: 5601e6bca2dbf1ed831b519092ec110f66982ca3
+  Protobuf: 03eef2ee0b674770735cf79d9c4d3659cf6908e8
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+  Walkthrough: 793c5eb9d0f3dfb606abf14b14890d72e4c221e3
+
+PODFILE CHECKSUM: e0dbe2db3c2923c459f16a474bc77f73c2719398
+
+COCOAPODS: 1.3.1
